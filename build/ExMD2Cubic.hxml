@@ -1,0 +1,9 @@
+-swf9 ../src/ExMD2Cubic.swf
+-swf-version 10
+-swf-header 800:600:60:000000
+-main ExMD2Cubic
+
+-cp ../src
+-cp ../../../Away3DLite/src
+
+-resource assets/signature_lite_katopz.swf@Signature

@@ -1,0 +1,10 @@
+-swf9 ../src/ExLight.swf
+-swf-version 10
+-swf-header 800:600:60:000000
+-main ExLight
+
+-cp ../src
+-cp ../../../Away3DLite/src
+
+-resource assets/torso_marble256.jpg@Texture
+-resource assets/torso_normal_256.jpg@Normal

@@ -1,0 +1,13 @@
+-swf9 ../src/Basic_LoadModel.swf
+-swf-version 10
+-swf-header 800:600:60:000000
+-main Basic_LoadModel
+
+-cp ../src
+-cp ../../../Away3DLite/src/
+
+-resource assets/signature_lite.swf@signatureSwf
+-resource assets/fskingr.jpg@greenPaint
+-resource assets/fskin.jpg@redPaint
+-resource assets/fskiny.jpg@yellowPaint
+-resource assets/fsking.jpg@greyPaint

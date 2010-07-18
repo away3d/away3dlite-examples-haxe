@@ -1,0 +1,14 @@
+-swf9 ../src/Advanced_MultiMario.swf
+-swf-version 10
+-swf-header 800:600:60:000000
+-main Advanced_MultiMario
+
+-cp ../src
+-cp ../../../Away3DLite/src
+
+-resource assets/floor.jpg@floor
+-resource assets/shadow.png@shade
+-resource assets/position.png@position
+-resource assets/mario_tex.jpg@charmap
+-resource assets/mario_testrun.dae@charmesh
+-resource assets/signature_lite_peter.swf@signatureSwf

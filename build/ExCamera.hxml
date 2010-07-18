@@ -1,0 +1,7 @@
+-swf9 ../src/ExCamera.swf
+-swf-version 10
+-swf-header 800:600:60:000000
+-main ExCamera
+
+-cp ../src/
+-cp ../../../Away3DLite/src/
