@@ -109,7 +109,7 @@ class Advanced_Mario1000 extends Sprite
 	private var model:ObjectContainer3D;
 	private var mesh:Mesh;
 	private var sprites:Vector<Sprite3D>;
-	private var amount:UInt;
+	private var amount:Int;
 	private var size:Int;
 	
 	//animation varibles

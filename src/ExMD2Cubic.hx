@@ -102,7 +102,7 @@ class ExMD2Cubic extends FastTemplate
 		var material:BitmapFileMaterial = new BitmapFileMaterial("assets/pg.png");
 		material.smooth = true;
 		
-		var amount:UInt = 3;
+		var amount:Int = 3;
 		var gap:Int = 240;
 
 		var i = -1;
